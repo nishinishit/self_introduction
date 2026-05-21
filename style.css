@@ -9,6 +9,10 @@
   --frame: #3e5e86;
 }
 
+html {
+  font-size: 200%;
+}
+
 * {
   box-sizing: border-box;
 }
